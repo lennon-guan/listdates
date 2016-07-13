@@ -7,7 +7,7 @@ pip install listdates
 ```
 * By hand
 ```
-git clone xxxxxx && cd xxxxx
+git clone git@github.com:lennon-guan/listdates.git && cd listdates
 python setup.py install
 ```
 ## Usage
