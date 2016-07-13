@@ -6,7 +6,7 @@ import re
 import datetime
 import operator
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 _DATE_PATTERNS = (
     (re.compile(r'^\d{8}$'), '%Y%m%d'),
